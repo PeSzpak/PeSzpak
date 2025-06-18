@@ -85,10 +85,7 @@ Currently contributing to real projects, expanding my knowledge in backend and i
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/pedro-szpak04" target="_blank">
-    <b>linkedin.com/in/pedro-szpak04</b>
-  </a>
 </div>
----
+
 
 <p align="center"><i>“Code. Break. Learn. Repeat.”</i></p>
