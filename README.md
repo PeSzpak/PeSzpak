@@ -17,15 +17,15 @@
 
 ---
 
-## 🧑 Sobre mim
+##  Sobre mim
 
 Sou estagiário de **Dados e Desenvolvimento**, cursando **Análise e Desenvolvimento de Sistemas** no **Senac SJP**.
 
 Atuo principalmente com **back-end**, mas exploro também **frontend, mobile, bancos de dados, DevOps e automações**.
 
-💡 Explorador de tecnologia.  
-🚀 Foco atual: **TypeScript, React, Express, Docker, PostgreSQL**.  
-📚 Filosofia: **Aprender rápido. Ajudar sempre. Crescer continuamente.**
+ Explorador de tecnologia.  
+ Foco atual: **TypeScript, React, Express, Docker, PostgreSQL**.  
+ Filosofia: **Aprender rápido. Ajudar sempre. Crescer continuamente.**
 
 ---
 
@@ -82,7 +82,7 @@ Atuo principalmente com **back-end**, mas exploro também **frontend, mobile, ba
 
 ---
 
-## 💼 Experiência
+##  Experiência
 
 **Estagiário em Dados e Desenvolvimento**  
 Contribuo para sistemas reais com foco em back-end, automações e infraestrutura.  
