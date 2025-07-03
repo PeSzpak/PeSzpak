@@ -29,7 +29,7 @@ Atuo principalmente com **back-end**, mas exploro também **frontend, mobile, ba
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Back-End
 <p align="center">
