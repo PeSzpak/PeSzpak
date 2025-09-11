@@ -11,6 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&center=true&vCenter=true&width=600&lines=Back-End+Developer+%7C+TypeScript%2C+Laravel%2C+Docker;Passionate+about+building+scalable+systems;Always+learning+and+exploring+new+technologies;Turning+ideas+into+real+solutions" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PeSzpak&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
