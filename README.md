@@ -24,7 +24,7 @@ I’m a **Data & Development Intern** and currently pursuing a degree in **Syste
 My main focus is **Back-End Development**, but I constantly explore other areas such as **Front-End, Mobile, Databases, DevOps, and Automation**.  
 
 - Current focus: **TypeScript, React, Express, Docker, PostgreSQL**  
-- Interested in: **NestJS, Prisma, Supabase, Pinecone**  
+- Interested in: **NestJS, Prisma, Pinecone**  
 - Learning goals: **Deepen expertise in Go (Golang)**, with strong interest in its use for scalable back-end systems.  
 - Philosophy: *Learn fast. Share knowledge. Grow continuously.*  
 - Always looking to contribute to projects that create real impact.  
