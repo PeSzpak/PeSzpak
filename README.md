@@ -74,13 +74,10 @@ My main focus is **Back-End Development**, but I constantly explore other areas 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeSzpak&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=PeSzpak&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeSzpak&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PeSzpak&theme=tokyonight&border_radius=15" height="180"/>
-</p>
-
+  
 ---
 
 ## Experience
