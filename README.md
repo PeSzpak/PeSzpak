@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Pedro%20Szpak&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center">Software Developer | Data Engineering</h1>
+<h1 align="center">Software Developer · Data Engineering</h1>
 
 <p align="center">São José dos Pinhais - PR, Brazil</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Data+Engineer;Full+Stack+TypeScript+%26+Python+Ecosystem;Building+Scalable+Apps+%26+Data+Pipelines;Clean+Architecture+%26+Data+Orchestration;React+%7C+NestJS+%7C+Airflow+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Full+Stack+TypeScript+%26+Java;NestJS+%7C+Next.js+%7C+React+%7C+Supabase;Python+%7C+Data+Pipelines+%7C+ETL+%7C+SQL+%7C+Airflow;Clean+Architecture+%7C+SOLID+%7C+Scalable+Systems;ADS+%40+Senac+PR+%E2%80%94+Building+while+I+learn" />
 </p>
 
 <p align="center">
@@ -15,103 +15,117 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/MYL0JUb9bYMAAAAd/adventure-time-gunter.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/MYL0JUb9bYMAAAAd/adventure-time-gunter.gif" width="420"/>
 </p>
 
 ---
 
-## Professional Summary
+## About Me
 
-Software Developer & Data Engineering enthusiast with a strong foundation in **Systems Analysis and Development**. My expertise lies in bridging the gap between **high-performance software architecture** and **scalable data pipelines**.
+Software Developer and Data Engineering enthusiast currently pursuing a degree in **Systems Analysis and Development** at Senac PR.
 
-I specialize in the **TypeScript ecosystem** for building robust full-stack applications, while simultaneously architecting efficient data workflows using **Python, SQL, and Airflow**. I am driven by **Clean Architecture**, **SOLID principles**, and the challenge of transforming complex data into reliable, well-structured systems.
+I work across two disciplines: building **production-grade full-stack applications** and architecting **data pipelines that actually hold up at scale**. My focus is the TypeScript ecosystem on the software side and Python/SQL on the data side with a strong preference for clean architecture, modularity, and systems that don't fall apart when requirements change.
 
-- **Software Stack:** TypeScript, NestJS, React, Next.js, Prisma.
-- **Data Stack:** Python, SQL (PostgreSQL/MySQL), Apache Airflow, ETL Processes.
-- **Architecture Mindset:** Clean Code, Modular Design, Scalability, and Data Integrity.
-- **Currently Exploring:** Distributed Systems, Big Data processing, and Cloud Infrastructure.
+**Currently working on:**
+- [**StrackZ**](https://strackz.sinovaz.com) - a personal finance full-stack app (Next.js · React · TypeScript · Supabase · PostgreSQL)
+- Freelance backend & security work at **Denoised.ai**
+
+**What I care about:**  
+Readable code. Reliable pipelines. Systems that scale without becoming a mess.
+
+🏆 1st Place - Ideathon Inova Comércio (Sebrae/PR + Senac/PR, 2025)
 
 ---
 
-##  Main Focus: Software Development
-*Construindo aplicações robustas, escaláveis e com foco em arquitetura limpa.*
+## Software Stack
 
-###  Runtime & Languages
+*Building robust, scalable applications with a focus on clean architecture.*
+
+### Runtime & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun" alt="Runtime & Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun" />
 </p>
 
-###  Back-End & Architecture
+### Back-End & Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,prisma,postgres" alt="Back-End" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,prisma,postgres" />
 </p>
+
+### Java Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+> Java 17 · Swing (desktop UI) · JDBC · SQLite · OOP - inheritance, polymorphism, exception handling · Academic & practical systems (Help Desk, Hospital Management, Product Registration)
 
 ### Front-End & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Front-End" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
 ---
 
-##  Data Engineering Stack
-*Desenvolvendo pipelines de dados, automação e estruturas de armazenamento.*
+## Data Engineering Stack
 
-###  Data Handling & Languages
+*Pipelines, automation, and storage structures that are built to last.*
+
+### Data, Languages & Orchestration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,supabase" alt="Data Tech" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,supabase" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 </p>
 
-> **Conhecimentos em:** SQL Avançado, ETL/ELT Pipelines, Orquestração de workflows e Modelagem de dados.
+> **Core skills:** Advanced SQL · ETL/ELT Pipelines · Workflow Orchestration · Data Modeling · Data Cleaning & Analytics
 
 ---
 
-##  Tooling & DevOps
-*O ecossistema que sustenta o ciclo de desenvolvimento e dados.*
+## Tooling & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,powershell" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,powershell" />
 </p>
 
 ---
 
-##  Additional Knowledge & Experience
-*Tecnologias trabalhadas em projetos específicos, estudos acadêmicos e legado.*
+## Additional Experience
+
+*Technologies used in specific projects, academic work, and legacy contexts.*
 
 **Languages & Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=php,dart,flutter" />
 </p>
 
 **Web Fundamentals**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,json" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
 </p>
 
 ---
 
-##  GitHub Overview
-<p align="center">
-  <strong>Software Developer & Data Engineering Enthusiast</strong><br>
-  Focado em construir software bem estruturado com ênfase em <strong>arquitetura limpa</strong>, 
-  <strong>escalabilidade</strong> e <strong>manutenibilidade</strong>.
-</p>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nestjs,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PeSzpak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeSzpak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
 </p>
 
-
+---
 
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-szpak04" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-szpak" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://strackz.sinovaz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-strackz.sinovaz.com-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
