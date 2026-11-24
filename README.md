@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-szpak"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjRkZENzAwIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" /></a>
   <a href="https://peszpak.github.io"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=FFD700" /></a>
-  <a href="https://sinovaz.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700" /></a>
+  <a href="https://www.sinovaz.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700" /></a>
 </p>
 
 <p align="center">
@@ -94,12 +94,15 @@ I build **LLM agents**, **document and data pipelines** and the **backend servic
 
 ## Featured Projects
 
+Case studies, screenshots and the rest of my work at **[www.sinovaz.com](https://www.sinovaz.com)**.
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**face-recognition-pro**](https://github.com/PeSzpak/face-recognition-pro) | Face detection and vector search platform | FastAPI · InsightFace · Pinecone |
-| [**airflow-dags-study**](https://github.com/PeSzpak/airflow-dags-study) | Workflow orchestration and pipeline experiments | Airflow · Docker · Python |
-| [**StrackZ**](https://github.com/PeSzpak/StrackZ) | Personal finance app, live at [strackz.sinovaz.com](https://strackz.sinovaz.com) | Next.js · Supabase · PostgreSQL |
-| [**SgymZ**](https://github.com/PeSzpak/SgymZ) | Workout manager with a Batman theme (and a Hello Kitty one) | TypeScript |
+| [**StrackZ**](https://strackz.sinovaz.com) | Personal finance manager built on the 50/30/20 method, in production at [strackz.sinovaz.com](https://strackz.sinovaz.com) | Next.js · Supabase · PostgreSQL |
+| [**TWS Score**](https://github.com/PeSzpak/tws-score) | PWA for a couple to rate the cafés and restaurants they visit; each score stays hidden until both are done | React · Vite · Supabase · Google Places |
+| [**SgymZ**](https://github.com/PeSzpak/SgymZ) | Workout manager with a Batman theme (and a Hello Kitty one) | Next.js · Supabase · Tailwind |
+| [**Face Recognition Pro**](https://github.com/PeSzpak/face-recognition-pro) | Face recognition that runs on your own machine: enroll people, identify them by camera, upload or Face ID login | FastAPI · DeepFace · Qdrant · React |
+| [**Grão Raro**](https://github.com/PeSzpak/grao-raro) | Specialty coffee shop with a real Asaas checkout (Pix, credit, debit), live at [grao-raro.sinovaz.com](https://grao-raro.sinovaz.com) | Next.js · MySQL · Drizzle · Asaas |
 
 ---
 
